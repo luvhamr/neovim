@@ -1,0 +1,1 @@
+/home/luvhamr/.local/share/neovim/titus-kickstart/lua
